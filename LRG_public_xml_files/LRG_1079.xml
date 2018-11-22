@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml" href="lrg2html.xsl"?>
+
+<lrg schema_version="1.9">
+  <fixed_annotation>
+    <id>LRG_1079</id>
+    <hgnc_id>12591</hgnc_id>
+    <sequence_source>NG_007122.2</sequence_source>
+    <organism taxon="9606">Homo sapiens</organism>
+    <mol_type>dna</mol_type>
+    <creation_date>2018-08-24</creation_date>
+    <sequence>TTGTGTGTGTTTGTGTGCACAAACAGGTGTCCCGAGTAAGTCCCTCACTCTCATGCCATACCTGTAGTCCAGGGGCTTTTCATATTTGTCAGAGGGCTTGAGGCCTTCATATACCTGGAGGCAAGGAGGAAAGGAGTCATAGGAAAGCAAGACCTGGCCCTATACTTGCCCCAAGAACTTGTTCAGGTCCCTCTTGGCCTAGCCCCCTTGGCCCTTGACTGATCCTATCTCAGTCGGACCCTAGGTGGTGCAGACCTGGGTGAAGACTGCATTCTTGCAGGCAGGGTCTCGAGAGGGGCAGGCACGGTGTTCCATGGCAAGACGGCGGTTGATGTATAGGCGTGGCATGAAGCTGGGCTTGCTGCTCTCAGAGTCACGCAGGCACTGAGCCACCAGGCCTGGCCGCTGGCGGGACAGCAGTAGGAACTGCTTCACTTGCTAGTGAGGAGAGGTGGCCAGAGCAGGAATGAGTGGGCAGTCAGCCTCCGTCCAGGCCCTGGAACTTTCCCCTCTGCCTGTATCCAATTCCACCGTTTCAGTTCAAGTCTAGTCCATCCCTGTCTTTGTCTCCAGTCCCCTCCTTAGTTCAGCCACCAGGGAGAGCTTTCTAAAACAAAAAAATCTAATACTGTCATTACCTTCCTTACCTTTCCAACAGCTCCACTACCCTGGGACAAAGTCCTTGCTTCACAGCCTGGCCCACAGGGCCCTCTGCAACCAGGACCTGTCTCCTGCCCACATCCTTCCACCCTCATCCCTCTGTCATACTCACACCTACTGGCACACTTTTCTCAAGACATCTTGAGCTGCTGGTAACTCCCTGTATGTACCTTTCACGCAAACTGCCCTGCCTGTGCTGTCAATAGCCCTTGGGTATTCCACACACTCTGGAATACCAAGGAGGCTGGGGAACAGCCTCCCAAACACTAAATTTGGACCATTTGTTCTGGCTTTCTTCCTATGTTCCCAGACCCAGCAAAGGTCTTGCCCTAGAGTAGATTTTAGGAACTCTGCTAAGGAATGAACAACTACGTGAGCAGGAAGGGGAAATGCCAAGACCAGCACTGGCTGGGTCGGCTCACCTTAATCTCACTGAAGGTGCCCAGTGTGTGGTCCCAGGCAGGTACCAGGTGGTGCAGGACACTATCGAGGATCTTGATGAATCTGGCATGGGTAGATAGACTGCAGCTAAAGAGTTTAGCATACCTGTAACACCCCCAACTCCCCAACATAAAGGGACAGGAAAAGGCAGGACCTGGGGGCTTCTCTGACCCTTGAACAGCTTATACTATGAGACCTTGGGAACCTCCTCCATGCAGACACACAAGGCTCAATGTTGGGGGAAGGGAAGGGCCCATAGGTCCAGGACCACAGCCACCTCTGCAGGAGGACAGCTCTGCGGTACAGTACTTCAGGGTCGGTGCCTTCTAGGCGTGGATATCGCACCAGACTAGTTGGCTGGAACAGGTCTGCATTCAACCCTAGTTCCCGCTGTCTAGATGACTTGATCTTGACCCCTCGGAGACGAACATCAATCCCATCATCTGGGGGAAGGGGTCAGAGTAAGGTCATTTACAGCACCTGCTGCCTCCTTGGCCCTCAGACCTGGGACCGGCTCCTTGAACGCTCAGCCTTGTGTCACCGTTAGCCCCTAGAAACTCGGGACCTTCGGGATCACCTTCTATCACCTGATTCTGATTGATCTATTCCTGCTGATTCCTCTGTCTTCCACTAGAATGCTGGGATGCCTGAGGGTCCCAACTCAGTTCCTCTTCCAGGTGAGCCCAACCACCTGTATGGCTTTAAGGCAGGCCTATACCTGGCATGTCCCAGCTGGCTCAGGCCCCAAAGCTCCAAATCCTGGAGTTAGTTCAGCATCGCCTTCACCCCAACTCCAAGCCCATCCTCTTCTCTCCACACACACTCTCTGTTTGCCCCCATCTCCACGCCGGGCTCTCTTTCCCTCCTTATAGCCTTAAACCTCACCTCGGCACTCCACGATGCGGATCTCGATGATCGGGAGGTGGACGGTCATGTCCTCCAGGACACAGACATCCCCGATGAGGGTCCTGAGGAGATGAGTGTGAAGCACTTCAGATACCTCCTGCCTCAGGCCTTCAGAGACTGCTGGAGTCTCACTCAAACTTAGGCTTTCAAGCTGGGCTAGGCTTGGAACATGCCCTACTTCCCTCCCCAGGCCAGCGTGCTCACTCGTCAATGCTCACGTCACTCAGCTTCTTCAGGTTGTCCCCTTCACCCCCATAGACCACCACCCGCTTTGGCATAAAGTTGTCATCTGTGGTATCCACTGTGAGTAGCAGCTTCCTGAAGGGTCAGAGTGTGAATATGAGTCTTTGTGAACCCACAGGGACATAGCCCACCCACCCTGTCCTGCCCAGAGCCTACTTACTTGACAATGGTGCCCTTCTTCATAGTAAGCCGTACCCAGTGTTGGCACTGGGACCCATCGCTCTCCCAGTAGGTATCGGCATTGCTGTCTGTCAGGCAGGACACGTTGAACTCCTCCTGGGGAGGGGCAGAGACGTGAAGTCAGCAGTTACCCTCCCTCCCTGCACTGGGCTTGTGCTCTGGGCCAGGAGCACCAGAGAGAAAGCATAGTGAAGTTGGGCTAACAGGCAACTGGTATGGGATAGGGGGCCGCTGGGTATGTAAGGGGTCCTATAGACGTCCAAGATGGGGAGCTGAACTGAGTGTGGCCTGTGGGGACCCTGTTTTAGTCCTGGCCTGCAGGTGGGGGTTCTTTCTGGATCTAGCCTTGAGGGGTGTGACTATATCTTGCCTGGGGTGGGAGGAGCCCCAGCACCCACCGTGTAGGAGGAAACGTCTATGCTCTCCACATACTGCTTCACGCTACCCAGGTTCTCATCCTCCTTGCCCAGGTGGTCATACAAGAAGTGGATCAGGTCCTCGTCGCACTCGTAGGTCCATGTCGGGGGTACATAGCTAAGCAACCCCAAGCCCCTAATTAGACTGGGCCCAGACGCAGAGCTCCTTCCTCCCCACCCCATTCCAGCTCACTCACAGTAGCCTTTGTACAGCTTCTGCGTATGCCTCTGCCGGCTGAGGTCTCGATCCCAGGCGATGTGAGTATGTCAGGTCCACCACCTGTTCCCACCTGTGGGCACAGAGTAGGGAGTGGGATGGGGAGACATCAGCGGTCAGCAAGACACTACCTCCATGCCGTGTAGCCTTCTTCAGGGCTCTATCTCCCAGTCTCCCTCCGAGCCCCCTTCACGTCCCGCCCCTTTCTGCTCTTAACCCTGCCTCCGCTCCAGTATCCCACCCACCCCAGGCTGTGGCTGAAGTGTTCCCAAGCCCTCCTGGCCCGGCCTTCTGACAGCCAGCCCCGCTCCTTCAAGTGCAGTACCTGAGCACCGGCCGATAATCCACGCCAAAGAGCTGCTGCTGCCGCTGGAGGTGGTTGGGAGTGTCGATGGGTACCAGGCGGGCTCCGCCCTCCGCCGGGCGGCACACCAGCAGCCAGCCTTCCTGCAGCCCGCAGTCGCCCAGGTGCTCTGCCAGCTGCTCCTGCCGGGACGCGTAGGATGGGGACAGCCGTCAGGGAACTGCCCAGCCGCCTGTCGTGCCCAGCCCAGGGCAAAGGGCGCCGAACGCAATGCCAACTCAATACAGGGGAGAAAAGGCAAACAGCCAGAGGTTTCTCTGGCCCCAGGGGTCTTTTACCGGGTCCTGGGCAGGGAAGAGCGCACCTTTGTCAGCTTCACCCAGAGCCCGTGGCCATTGCACAGCTCCTCGCCCGTGGTGCGCACGCAGGCGCCGCGCCGGAGCTCAATGCTGTCGCGGGCGGCGCGGAGGGGCCCGGAGCCGGTACCGGGGGCTGGGCCTGCGGCGCCCACACGCAGCCCCAGGCCCTCTGCCTCCCACACCGGCAGAAGCACGCGCGACGGTCCCGCTGGGTCCTTGTAAAGCTTGTAGAGCACCTCTCGCGGCACGAAAGCCAGCGCTGCTGGCAGCGGCCGCCCGGCGCGGAGGCTCCGCGCTGCCTCTGCCAAGAAGCGCACGCGGCCCAGCAGCTGCCGGGGGGACTCCAGCACCGCGCCCGGGCCAGGACCCGCCATGGCGAAGTGGCGGAGGTGAGCACCTAGAGGCGACCCTGCCCGGGGAACAGCTGGCGCGACCGCGGACAGAGCTTCCCACCACGCCCTTCCCCGCCTTTGGCCAGCCTTTGCCGTATGTTCTGGACTAAGCGCACCCCAGCTCTCACTGTATTGGACTGTGTACTCCCACACTCAACCATATTACTTATCTCTGTGCCACCCTAACCCAGCCGACCAAACCCAAGATTGGTGATTGCTACCTGATCAATCTCCCTCTCTCCATTTCCTTGTGACTACCATTTTATCTCTACTGCTACTACCCTCATTCAAGTCACCATTCTAGCTAGCCTGGGTCATTGCCAACAGTCATTTTTCTGGTTCTTCGGCCTGCTGTTTTTCCTCCCACTCCCAGCGAATCTGCTGGACTCCCTATCCTATGGGTGGTGTGATTAAAGTGTTTGAGACAATGGCCCCTTCCCCTGCCACTGACAGGAGTCTTGAGTCATTAGGGTTGATTCTGTTTGTCACTCCTAATCCCAAGGACACTGGAGATCATTATTCATTTTAATGTGATTGCTGATTTCTGTTTCCCCAGTCTTGTAGCTCCTTAAAGGCTGGGGCTGTCTTGAGCAGAGCTAACCTCTGCACCTACTATAGGTCCAGGCTATAGTATGGACCTGGCTGGATAAGACTGTTGGTATCATGAGTGGGACTTGCGCCAAGCCTCCGGATACCCAGACTGTCAGATGAGAACAAATTCCTCATGTCACCGTAAGATACATTTACAGCGGAGTTTTCTTTTGGGCCTTTGTTGTTGCGTCGCTACAGCAAACTTTACGGTGAAAAAAGGTAGGGGTCCTACGGGCAGCAGCCAGGGCAGCCCTGGAGCTGTCGCTGGAGTCCGATCATGTGATCTTCAACATGGCGACGCTCTTGGTTCCCTACAGAAAGGGGCGGAGCCTGGACTGGGGGGCAGGCTCAGATTCAGGTTAAATTGTGGATTGAGCTCGCAGTTACAGACAGCTGACCATGGAAGCGAATGGGTTGGGGTGAGTTCTCCAGAGCACGCGGTGTGGCTAGCCGGGCTTCTAATTTGAGTCTTCCAACTCAGGACTCTATCCCTCTACTCCCCTTTCCCCACCCTGGAGACCTCCCAACCTGAACTCCGTTAGCTGGGATCCTGAATCCTAAAACCATGGATTTTTGAGATGTTCATCCCAGGGCCTTAATTCAAGGGATGCCTCAGGATTTCCAACCAGGATCTCTATTCTGGGACCATCAACTCTGATCCCTCTTTATCCCCCAGCCTGGGTATTTCTCAGCCCCTGAACCAGCCCAGTGACATTCCCGTTTCTGAGGCTCACTAGTTCGAAGACCCCCAAACTATCCTTAGTGGGCCTTCATTCCCTCCCCCCAGTCCCTCTGGTTGCTTCGAGCTTGGAAGAGTAGAGACTAAGTGGAGGGAAGAGGCCCCAGGGCGGGCCCTTCTGGAGTTTGTGCACCACCTGATAGGCAGAGAGGAGGCGGAACGGGCGGAAAGCCAGGGTTTGGGAGCTGGCCTGGAGGAGGTAGATAGCGGTCCTGGACTGAATCGGCCTTATGAACCCGCGCTTTCCCCAGCCTCCAGCGTAGCATACTGACACCTACCCCCACCCCCACCTGATCGCCAGACCTCAGGGTTTTCCGGAGCTGAAGAATGACACATTCCTGCGAGCAGCCTGGGGAGAGGAAACAGACTACACTCCCGTTTGGTGCATGCGCCAGGCAGGCCGTTACTTACCAGGTAAGAGTCAGGGTCTGGAAATCTAGATAAAACTCCGGAGGGAGAAAAGTTTTCGAGGGGCAGGGGAGGGCTCTGGAGGGCCTCAAGGCTGAGCCCTGTCTTCCCTCTGTATGCAGAGTTTAGGGAAACCCGGGCTGCCCAGGACTTTTTCAGCACGTGTCGCTCTCCTGAGGCCTGCTGTGAACTGACTCTGCAGGTGAGGGGTCCACAAAAGAGGGAAAGATTTATGCCTTCAGTCTGCCACCTAGCAACCTGTCTCCTGTTTCCTACAGCCACTGCGTCGCTTCCCTCTGGATGCTGCCATCATTTTCTCCGACATCCTTGTTGTACCCCAGGTACCCACTCAAACCTGATCCTAGAATATAATCCAAGGACGCCTTGAAAATCCTTCTATCAGTCCAGTCAAGGTTTACAATAAGCACTTATCCTAACTGGATCGAGGGAAAAACTAAGGTTGAAAGAAATGGAGTTTGGCAGAGTTTTATTCTCCTTTTCCTTCCTCCTGGAATGAGCTGAACAGAACCTTTCCTCCTGGATTCCATTTTGGGAACCCAGATGTTTTCTCCCCCTCCAGGCACTGGGCATGGAGGTGACCATGGTACCTGGCAAAGGACCCAGCTTCCCAGAGCCATTAAGAGAAGAGCAGGACCTAGAACGCCTACGGGATCCAGAAGTGGTAGCCTCTGAGCTAGGCTATGTGTTCCAAGCCATCACCCTTACCCGACAACGACTGGCTGGACGTGTGCCGCTGATTGGCTTTGCTGGTGCCCCAGTAATGTGGGACAGGGCAGGGACTCGGGGCGCGGGGAGATCACTCTGGAAGGTCTGGGGTAGACAAAAGGAAGGGTCAGTCTGGCTTCTGTGACACCATCTTTCTATCCTTCTCTAGTGGACCCTGATGACATACATGGTTGAGGGTGGTGGCTCAAGCACCATGGCTCAGGCCAAGCGCTGGCTCTATCAGAGACCTCAGGCTAGTCACCAGCTGCTTCGCATCCTCACTGATGCTCTGGTCCCATATCTGGTAGGACAAGTGGTGGCTGGTGCCCAGGTGAGTCCTGAGAGAGAGAGAAATAGGCTGGGATTTGGTCTGTAAGGACCAGAAGCAAGAGTGTCCTAAACCTGAGAGGGCAGGGGTCTTAATGCCAGGGATGAAAGAACCTTGGCCTCCAGTGATCTAGCGGAGCAGCCAAGCCCATCCTGACACTGACAGTGGGGCTTAATGCTCTAAGTATTCAGACACCAAAGTTAGTGCTGGGATCTGAGGAAAGTAAATTTTTTTTTTTTTAATTACTGGGTTTTTAGGGTCAGGCAGTATCAGGGATTGAAGTCATTTGGGGAAAATTGAGGTGGATTTTGTATGTGGGGGAAACTTCCTCTTTGTGTGTTACATATTTTTCTTCACCATACCCTAACTAGGCATTGCAGCTGTTTGAGTCCCATGCAGGGCATCTTGGCCCACAGCTCTTCAACAAGTTTGCACTGCCTTACATCCGTGATGTGGCCAAGCAAGTGAAGGCCAGGTTGCGGGAGGCAGGCCTGGCACCAGTGCCCATGGTGAGGATTGGGATGGGTTGAGTGAAGGTGGTCCTGTGGAGCTTTCAGGCTAAGTCCTGCATGGACTGGAGTGACCACTGGAGGGCAGCAGAAGTACAGTCAAGAAAGATTAGTGGTTGTAGCAAGGCCCTCTGTAGCCTGAGATCTGCTTTTTTCTAGATCATCTTTGCTAAGGATGGGCATTTTGCCCTGGAGGAGCTGGCCCAAGCTGGCTATGAGGTGGTTGGGCTTGACTGGACAGTGGCCCCAAAGAAAGCCCGGTAAGCCATGGAAGGGTGAGGCCTTGAGGTTGAGGTGGGGGTGTTGGCTGGGGGAGCTGCCATGTATGCAGTTACCAGAACGTGGCGCTGGCTTTGCTTCCAGGGAGTGTGTGGGGAAGACGGTGACATTGCAGGGCAACCTGGACCCCTGTGCCTTGTATGCATCTGAGGTAACAGCCAGGGCCCCTCTGTGTGTCTGTTACTGTGCACTCCTGTGGCTGTGGCTGTATTATTCTGTGTGCACTTGTTTTTAATGTCTGTCTGTCCTTTTCTTCTACTCTGTACAACATAAGCCCTAGAAAGACCGGACTTTTTGTTGCTGTTGTTCATTTGTGTTTATGCTTCATGCCTGGGTCCATACTAGGGATCTGATAAATTTTATTGAATGACTGAATAACACTGAGTAGAAGCATGCCTACATATGCGTTTGTCACTAGTATATATAGGGAGGACAAAGGCTTGCTGGTCCTCCTGTAGCCAGTGCCCTGTTGGTCCCCCAGGAGGAGATCGGGCAGTTGGTGAAGCAGATGCTGGATGACTTTGGACCACATCGCTACATTGCCAACCTGGGCCATGGGCTTTATCCTGACATGGACCCAGAACATGTGGGCGCCTTTGTGGATGCTGTGCATAAACACTCACGTCTGCTTCGACAGAACTGAGTGTATACCTTTACCCTCAAGTACCACTAACACAGATGATTGATCGTTTCCAGGACAATAAAAGTTTCGGAGTTGAACTATTGTGTAGTTTTGTTTGTGAAAGATTGTGCCCATATCCTCAGTTCTTCTTAGCCTCTGCTCCTTCCCTGGGAACCCTCTCTATATCCTCTTCACAAGTCATGGGGGTTAGGTATCAGTGAATATGTACTATAGCACTTAAGGATTCTCATTCCCATCTTACTCTCAGATACCTAAGTCCCAGAACTACATGGGGTAGGGTAGAGCTTTCCTAGCAGTTCAGGTTGTGACATTTGCAGAAAAACGGGTGGGGTCCTCACAACATACAAAGGCCAAATTGATAGGGCTTTATGTCTGGGGAGAAAGGGAAGTATACATCAAAAAGGGGCACAGAAGGGGTTAGAACACTTCAGAGAGGCATGGGGAAGAAGATGGAGTCTAGGCAAGCAGGGAGAAGCTGAGGGACCCTCAGCTTTGACACCAAAATATATAGAGGACATGAAAGCTCAGAGCTAGGTTGCTTAGGATTGGAGCTTTAGACAAGTCGATCATCACCAAAGCAAGAAGTCCTCTGAAACCAAAAGACCCTCTGGCAACTCAAGGTTGCTTTATATTCTTTTCTGAGCATCCCCTTTAATTTTCTCAAGATCTTGGTTATTCCACCCTTCCTGGTGGTACCTGCTTCCCAGGACAAGGCTCTGAGGTGTCTGTAAGCCCTGGGGAAGGGTCTGGTATGGCAAGAAATTCTTTATCTGTCAGTCATTCTGCATCTCCTTAGACCACTAGGCACCCACTGTGCTGTAGGCTGAACCAGCTCCCTGGCCCAGCCAGGGCAATGCAGAAAGGAGAGATGGGTTTCATTTAGTGAGAGAACACAATTTCTGCTTTTAGAAAAATGATCTTTTATGTGATCCATGATTTATTCATAGAAAAGCACTGTGAATTCACACACTTGCTAAAAAAGGGCAACTGTGATACAGAAATGAGAGTGGCTTCTCTCTTTTTTTTAACCAACCCATTGGGCTGAGACGTAGGGGCCCTTGGCTGGACAGTAAGACTTGAGTAGCCACAAATGGCAAATACAACTTCTTGGTCAGTTTGGAGTAAAAAAGGTGACAGTTTGTCGAAGAAAGAAAAAGTAAAGCAGATGGAGAAGTTCTTAGTTCACATTCTAGCTATACCACCCCTTCCCTATCAAACCCCACCCCCAACTCAGGAACTAAGACATGAAACAGTAAACACCAAGACACTGGTTCCAACTGACTTTTCTGAGTGCCCTTGCTACCTCCTATAACAATTCCAGGCTGAGCACAGGGGTCAGGAAGGTAGCAGGAACATGATACACTATGGAGGTCAGCCAGGGCTAAGACAGGACTGCCCACTAGGGCTAGAAATTAGGAAGGGAGAGGCTAAGTGCAGACCAGCCCTAGCCTCCAAGTCAGCGAGCAATGAGACTGTGACAAAAGCCGGCGAGGAAGCTTGAGGTAGAAAGGCAGGGGAAGAAAGCAAGTATGAGGCGAGAAGAGAACTATGGAGCTAAAGCAGCCAATCTGATGGCAGAGGGAGATTGGTGCTTAGAAGCTTGTTTGGTGAGAGAATGAATAGAGGAGGCACAGAGATGGGGAACAAACGTTTAGCTGGCGAGAGAGATTTAAGAGGAATGGGAAAGAGAAATCTGGCAAAAAGGACACATTGATGCAGATCCTCAAACATGAATACACAGACATCCCTACATGTAGAAATACGCTCAGTTACACATATAAAGACACAGATGCATGGATAACAAGCATACACATGGATACAAACATGTTTATACACATGCACTCGTGTACGCAGATACACATACTAAACATGCACAAACATGAGTGCATTTGCACAAAGATGTGCATCCTCACATGTACACAAAATGTGTATATCCTCACGTAGAAACTCACAGTCCAGTGTGCACATATTCAAACAGGTACACAGCCATAGAACTGACACATACACATAAATATATATGTGCACAAACAGGCATGCACAGATGTATCTATGTACATACACACATGTACTTAGCCATAAAGATACACACACACAATTATAGATGAAACCACACACTTGCTAACACAAAGGTGACCACAGTAGATGAATATTATGAACTCAGCGGCTTCCCA</sequence>
+    <transcript name="t1">
+      <comment>The coding sequence of this transcript is identical to the coding sequence of Ensembl transcript ENST00000246337.8. The two transcripts differ at the 5'UTR.</comment>
+      <coordinates coord_system="LRG_1079" start="5097" end="8418" strand="1" />
+      <cdna>
+        <sequence>AGACAGCTGACCATGGAAGCGAATGGGTTGGGACCTCAGGGTTTTCCGGAGCTGAAGAATGACACATTCCTGCGAGCAGCCTGGGGAGAGGAAACAGACTACACTCCCGTTTGGTGCATGCGCCAGGCAGGCCGTTACTTACCAGAGTTTAGGGAAACCCGGGCTGCCCAGGACTTTTTCAGCACGTGTCGCTCTCCTGAGGCCTGCTGTGAACTGACTCTGCAGCCACTGCGTCGCTTCCCTCTGGATGCTGCCATCATTTTCTCCGACATCCTTGTTGTACCCCAGGCACTGGGCATGGAGGTGACCATGGTACCTGGCAAAGGACCCAGCTTCCCAGAGCCATTAAGAGAAGAGCAGGACCTAGAACGCCTACGGGATCCAGAAGTGGTAGCCTCTGAGCTAGGCTATGTGTTCCAAGCCATCACCCTTACCCGACAACGACTGGCTGGACGTGTGCCGCTGATTGGCTTTGCTGGTGCCCCATGGACCCTGATGACATACATGGTTGAGGGTGGTGGCTCAAGCACCATGGCTCAGGCCAAGCGCTGGCTCTATCAGAGACCTCAGGCTAGTCACCAGCTGCTTCGCATCCTCACTGATGCTCTGGTCCCATATCTGGTAGGACAAGTGGTGGCTGGTGCCCAGGCATTGCAGCTGTTTGAGTCCCATGCAGGGCATCTTGGCCCACAGCTCTTCAACAAGTTTGCACTGCCTTACATCCGTGATGTGGCCAAGCAAGTGAAGGCCAGGTTGCGGGAGGCAGGCCTGGCACCAGTGCCCATGATCATCTTTGCTAAGGATGGGCATTTTGCCCTGGAGGAGCTGGCCCAAGCTGGCTATGAGGTGGTTGGGCTTGACTGGACAGTGGCCCCAAAGAAAGCCCGGGAGTGTGTGGGGAAGACGGTGACATTGCAGGGCAACCTGGACCCCTGTGCCTTGTATGCATCTGAGGAGGAGATCGGGCAGTTGGTGAAGCAGATGCTGGATGACTTTGGACCACATCGCTACATTGCCAACCTGGGCCATGGGCTTTATCCTGACATGGACCCAGAACATGTGGGCGCCTTTGTGGATGCTGTGCATAAACACTCACGTCTGCTTCGACAGAACTGAGTGTATACCTTTACCCTCAAGTACCACTAACACAGATGATTGATCGTTTCCAGGACAATAAAAGTTTCGGAGTTGAA</sequence>
+      </cdna>
+      <coding_region>
+        <coordinates coord_system="LRG_1079" start="5109" end="8341" strand="1" />
+        <translation name="p1">
+          <sequence>MEANGLGPQGFPELKNDTFLRAAWGEETDYTPVWCMRQAGRYLPEFRETRAAQDFFSTCRSPEACCELTLQPLRRFPLDAAIIFSDILVVPQALGMEVTMVPGKGPSFPEPLREEQDLERLRDPEVVASELGYVFQAITLTRQRLAGRVPLIGFAGAPWTLMTYMVEGGGSSTMAQAKRWLYQRPQASHQLLRILTDALVPYLVGQVVAGAQALQLFESHAGHLGPQLFNKFALPYIRDVAKQVKARLREAGLAPVPMIIFAKDGHFALEELAQAGYEVVGLDWTVAPKKARECVGKTVTLQGNLDPCALYASEEEIGQLVKQMLDDFGPHRYIANLGHGLYPDMDPEHVGAFVDAVHKHSRLLRQN</sequence>
+        </translation>
+      </coding_region>
+      <exon label="1">
+        <coordinates coord_system="LRG_1079" start="5097" end="5128" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="1" end="32" />
+        <coordinates coord_system="LRG_1079p1" start="1" end="7" />
+      </exon>
+      <intron phase="2" />
+      <exon label="2">
+        <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="33" end="145" />
+        <coordinates coord_system="LRG_1079p1" start="7" end="45" />
+      </exon>
+      <intron phase="1" />
+      <exon label="3">
+        <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="146" end="225" />
+        <coordinates coord_system="LRG_1079p1" start="45" end="71" />
+      </exon>
+      <intron phase="0" />
+      <exon label="4">
+        <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="226" end="288" />
+        <coordinates coord_system="LRG_1079p1" start="72" end="92" />
+      </exon>
+      <intron phase="0" />
+      <exon label="5">
+        <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="289" end="486" />
+        <coordinates coord_system="LRG_1079p1" start="93" end="158" />
+      </exon>
+      <intron phase="0" />
+      <exon label="6">
+        <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="487" end="648" />
+        <coordinates coord_system="LRG_1079p1" start="159" end="212" />
+      </exon>
+      <intron phase="0" />
+      <exon label="7">
+        <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="649" end="786" />
+        <coordinates coord_system="LRG_1079p1" start="213" end="258" />
+      </exon>
+      <intron phase="0" />
+      <exon label="8">
+        <coordinates coord_system="LRG_1079" start="7579" end="7679" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="787" end="887" />
+        <coordinates coord_system="LRG_1079p1" start="259" end="292" />
+      </exon>
+      <intron phase="2" />
+      <exon label="9">
+        <coordinates coord_system="LRG_1079" start="7783" end="7849" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="888" end="954" />
+        <coordinates coord_system="LRG_1079p1" start="292" end="314" />
+      </exon>
+      <intron phase="0" />
+      <exon label="10">
+        <coordinates coord_system="LRG_1079" start="8180" end="8418" strand="1" />
+        <coordinates coord_system="LRG_1079t1" start="955" end="1193" />
+        <coordinates coord_system="LRG_1079p1" start="315" end="367" />
+      </exon>
+    </transcript>
+  </fixed_annotation>
+  <updatable_annotation>
+    <annotation_set type="requester">
+      <source>
+        <name></name>
+        <contact>
+          <name>Ram Srinivasan</name>
+          <address>Icahn School of Medicine at Mount Sinai, NY, USA</address>
+          <email>ram.srinivasan@mssm.edu</email>
+        </contact>
+      </source>
+      <source>
+        <name></name>
+        <contact>
+          <name>Sharon Whatley</name>
+          <address>Institute of Medical Genetics, University Hospital of Wales, Cardiff, UK</address>
+          <email>Sharon.Whatley@wales.nhs.uk</email>
+        </contact>
+      </source>
+      <modification_date>2018-11-21</modification_date>
+    </annotation_set>
+    <annotation_set type="lrg">
+      <source>
+        <name>LRG</name>
+        <url>http://www.lrg-sequence.org/</url>
+        <contact>
+          <name>Locus Reference Genomic</name>
+          <url>http://www.lrg-sequence.org/page.php?page=contact</url>
+          <email>feedback@lrg-sequence.org</email>
+        </contact>
+      </source>
+      <modification_date>2018-11-21</modification_date>
+      <mapping coord_system="GRCh37.p13" other_name="1" other_id="NC_000001.10" other_id_syn="CM000663.1" other_start="45472830" other_end="45483341" type="other_assembly">
+        <mapping_span lrg_start="1" lrg_end="10512" other_start="45472830" other_end="45483341" strand="1" />
+      </mapping>
+      <mapping coord_system="GRCh38.p12" other_name="1" other_id="NC_000001.11" other_id_syn="CM000663.2" other_start="45007158" other_end="45017669" type="main_assembly">
+        <mapping_span lrg_start="1" lrg_end="10512" other_start="45007158" other_end="45017669" strand="1" />
+      </mapping>
+      <lrg_locus source="HGNC">UROD</lrg_locus>
+    </annotation_set>
+    <annotation_set type="ncbi">
+      <source>
+        <name>NCBI RefSeq</name>
+        <url>http://www.ncbi.nlm.nih.gov/projects/RefSeq/RSG/</url>
+        <contact>
+          <name>RefSeqGene Group</name>
+          <address>NCBI/NLM/NIH</address>
+          <email>refseq-admin@ncbi.nlm.nih.gov</email>
+        </contact>
+      </source>
+      <comment>Annotation from NG_007122.2</comment>
+      <modification_date>2018-11-20</modification_date>
+      <mapping coord_system="NM_000374.5" other_name="NM_000374.5" other_id="NM_000374.5" other_start="1" other_end="1193" type="transcript">
+        <mapping_span lrg_start="5097" lrg_end="5128" other_start="1" other_end="32" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="33" other_end="145" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="146" other_end="225" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="226" other_end="288" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="289" other_end="486" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="487" other_end="648" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="649" other_end="786" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="787" other_end="887" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="888" other_end="954" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="955" other_end="1193" strand="1" />
+      </mapping>
+      <mapping coord_system="NR_036510.1" other_name="NR_036510.1" other_id="NR_036510.1" other_start="1" other_end="1458" type="transcript">
+        <mapping_span lrg_start="4976" lrg_end="5128" other_start="1" other_end="153" strand="1" />
+        <mapping_span lrg_start="5700" lrg_end="5862" other_start="154" other_end="316" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="317" other_end="396" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="397" other_end="459" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="460" other_end="657" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="658" other_end="819" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="820" other_end="957" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="958" other_end="1058" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="1059" other_end="1125" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8512" other_start="1126" other_end="1458" strand="1" />
+      </mapping>
+      <mapping coord_system="NR_158184.1" other_name="NR_158184.1" other_id="NR_158184.1" other_start="1" other_end="1262" type="transcript">
+        <mapping_span lrg_start="5097" lrg_end="5128" other_start="1" other_end="32" strand="1" />
+        <mapping_span lrg_start="5700" lrg_end="5862" other_start="33" other_end="195" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="196" other_end="275" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="276" other_end="338" strand="1" />
+        <mapping_span lrg_start="6418" lrg_end="6634" other_start="339" other_end="555" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="556" other_end="717" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="718" other_end="855" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="856" other_end="956" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="957" other_end="1023" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="1024" other_end="1262" strand="1" />
+      </mapping>
+      <mapping coord_system="NR_158185.1" other_name="NR_158185.1" other_id="NR_158185.1" other_start="1" other_end="1212" type="transcript">
+        <mapping_span lrg_start="5097" lrg_end="5128" other_start="1" other_end="32" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="33" other_end="145" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="146" other_end="225" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="226" other_end="288" strand="1" />
+        <mapping_span lrg_start="6418" lrg_end="6634" other_start="289" other_end="505" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="506" other_end="667" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="668" other_end="805" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="806" other_end="906" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="907" other_end="973" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="974" other_end="1212" strand="1" />
+      </mapping>
+      <features>
+        <gene source="NCBI-Gene" accession="79654">
+          <symbol source="HGNC" name="HECTD3" />
+          <coordinates coord_system="LRG_1079" start="1" end="4198" strand="-1" />
+          <partial>3-prime</partial>
+          <long_name>HECT domain E3 ubiquitin protein ligase 3</long_name>
+          <db_xref source="GeneID" accession="79654" />
+          <db_xref source="HGNC" accession="HGNC:26117" />
+          <db_xref source="CCDS" accession="CCDS41318.1" />
+          <transcript source="RefSeq" accession="NM_024602.5">
+            <coordinates coord_system="LRG_1079" start="62" end="4198" strand="-1" />
+            <partial>3-prime</partial>
+            <long_name>HECT domain E3 ubiquitin protein ligase 3</long_name>
+            <db_xref source="GeneID" accession="79654" />
+            <db_xref source="GI" accession="157738608" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="3732" end="4198" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="3389" end="3549" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="3044" end="3136" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="2829" end="2964" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="2411" end="2526" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="2212" end="2325" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="1987" end="2069" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="1379" end="1544" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="1083" end="1164" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="256" end="438" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="62" end="114" strand="-1" />
+              <partial>3-prime</partial>
+            </exon>
+            <protein_product source="RefSeq" accession="NP_078878.3" codon_start="1">
+              <coordinates coord_system="LRG_1079" start="62" end="4100" strand="-1" />
+              <partial>3-prime</partial>
+              <db_xref source="CCDS" accession="CCDS41318.1" />
+              <db_xref source="GeneID" accession="79654" />
+              <db_xref source="GI" accession="157738609" />
+            </protein_product>
+          </transcript>
+        </gene>
+        <gene source="NCBI-Gene" accession="7389">
+          <symbol source="HGNC" name="UROD">
+            <synonym>PCT</synonym>
+            <synonym>UPD</synonym>
+          </symbol>
+          <coordinates coord_system="LRG_1079" start="5097" end="8418" strand="1" />
+          <long_name>uroporphyrinogen decarboxylase</long_name>
+          <db_xref source="GeneID" accession="7389" />
+          <db_xref source="HGNC" accession="HGNC:12591" />
+          <db_xref source="MIM" accession="613521" />
+          <db_xref source="CCDS" accession="CCDS518.1" />
+          <db_xref source="GI" accession="163937856" />
+          <transcript source="RefSeq" accession="NR_036510.1">
+            <coordinates coord_system="LRG_1079" start="4976" end="8512" strand="1" />
+            <long_name>uroporphyrinogen decarboxylase, transcript variant 2</long_name>
+            <db_xref source="GeneID" accession="7389" />
+            <db_xref source="GI" accession="302393548" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="4976" end="5128" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="5700" end="5862" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="7579" end="7679" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="7783" end="7849" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="8180" end="8512" strand="1" />
+            </exon>
+          </transcript>
+          <transcript source="RefSeq" accession="NM_000374.5" fixed_id="t1">
+            <coordinates coord_system="LRG_1079" start="5097" end="8418" strand="1" />
+            <long_name>uroporphyrinogen decarboxylase, transcript variant 1</long_name>
+            <db_xref source="GeneID" accession="7389" />
+            <db_xref source="GI" accession="1456258313" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="5097" end="5128" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="7579" end="7679" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="7783" end="7849" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="8180" end="8418" strand="1" />
+            </exon>
+            <protein_product source="RefSeq" accession="NP_000365.3" fixed_id="p1">
+              <coordinates coord_system="LRG_1079" start="5109" end="8341" strand="1" />
+              <db_xref source="CCDS" accession="CCDS518.1" />
+              <db_xref source="GeneID" accession="7389" />
+              <db_xref source="GI" accession="71051616" />
+            </protein_product>
+          </transcript>
+        </gene>
+        <gene source="NCBI-Gene" accession="57643">
+          <symbol source="HGNC" name="ZSWIM5" />
+          <coordinates coord_system="LRG_1079" start="9245" end="10512" strand="-1" />
+          <partial>5-prime</partial>
+          <long_name>zinc finger SWIM-type containing 5</long_name>
+          <db_xref source="GeneID" accession="57643" />
+          <db_xref source="HGNC" accession="HGNC:29299" />
+          <db_xref source="CCDS" accession="CCDS41319.1" />
+          <transcript source="RefSeq" accession="NM_020883.1">
+            <coordinates coord_system="LRG_1079" start="9245" end="10512" strand="-1" />
+            <partial>5-prime</partial>
+            <long_name>zinc finger SWIM-type containing 5</long_name>
+            <db_xref source="GeneID" accession="57643" />
+            <db_xref source="GI" accession="149944450" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_1079" start="9245" end="10512" strand="-1" />
+              <partial>5-prime</partial>
+            </exon>
+          </transcript>
+        </gene>
+      </features>
+    </annotation_set>
+    <annotation_set type="ensembl">
+      <source>
+        <name>Ensembl</name>
+        <url>http://www.ensembl.org/</url>
+        <contact>
+          <name>Ensembl</name>
+          <address>European Bioinformatics Institute</address>
+          <email>helpdesk@ensembl.org</email>
+        </contact>
+      </source>
+      <comment>Annotation is based on Ensembl release 94 (GRCh38  primary assembly)</comment>
+      <modification_date>2018-11-21</modification_date>
+      <mapping coord_system="ENST00000246337.8" other_name="ENST00000246337.8" other_id="ENST00000246337.8" other_start="1" other_end="1300" type="transcript">
+        <mapping_span lrg_start="4990" lrg_end="5128" other_start="1" other_end="139" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="140" other_end="252" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="253" other_end="332" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="333" other_end="395" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="396" other_end="593" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="594" other_end="755" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="756" other_end="893" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="894" other_end="994" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="995" other_end="1061" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="1062" other_end="1300" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000428106.1" other_name="ENST00000428106.1" other_id="ENST00000428106.1" other_start="1" other_end="682" type="transcript">
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="1" other_end="113" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="114" other_end="193" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="194" other_end="256" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="257" other_end="454" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="455" other_end="592" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7668" other_start="593" other_end="682" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000434478.5" other_name="ENST00000434478.5" other_id="ENST00000434478.5" other_start="1" other_end="600" type="transcript">
+        <mapping_span lrg_start="5089" lrg_end="5128" other_start="1" other_end="40" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="41" other_end="153" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="154" other_end="233" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="234" other_end="431" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="432" other_end="593" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7288" other_start="594" other_end="600" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000460334.5" other_name="ENST00000460334.5" other_id="ENST00000460334.5" other_start="1" other_end="663" type="transcript">
+        <mapping_span lrg_start="5101" lrg_end="5128" other_start="1" other_end="28" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="29" other_end="141" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="142" other_end="221" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="222" other_end="284" strand="1" />
+        <mapping_span lrg_start="6418" lrg_end="6634" other_start="285" other_end="501" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="502" other_end="663" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000460906.5" other_name="ENST00000460906.5" other_id="ENST00000460906.5" other_start="1" other_end="820" type="transcript">
+        <mapping_span lrg_start="5111" lrg_end="5128" other_start="1" other_end="18" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="19" other_end="131" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="132" other_end="211" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="212" other_end="274" strand="1" />
+        <mapping_span lrg_start="6418" lrg_end="6963" other_start="275" other_end="820" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000461035.5" other_name="ENST00000461035.5" other_id="ENST00000461035.5" other_start="1" other_end="486" type="transcript">
+        <mapping_span lrg_start="5055" lrg_end="5128" other_start="1" other_end="74" strand="1" />
+        <mapping_span lrg_start="5700" lrg_end="5862" other_start="75" other_end="237" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="238" other_end="317" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6303" other_start="318" other_end="486" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000462688.5" other_name="ENST00000462688.5" other_id="ENST00000462688.5" other_start="1" other_end="901" type="transcript">
+        <mapping_span lrg_start="5108" lrg_end="5128" other_start="1" other_end="21" strand="1" />
+        <mapping_span lrg_start="5700" lrg_end="5862" other_start="22" other_end="184" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6197" other_start="185" other_end="403" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="404" other_end="601" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="602" other_end="763" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="764" other_end="901" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000463092.5" other_name="ENST00000463092.5" other_id="ENST00000463092.5" other_start="1" other_end="968" type="transcript">
+        <mapping_span lrg_start="5028" lrg_end="5128" other_start="1" other_end="101" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="102" other_end="214" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6732" other_start="215" other_end="968" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000465678.1" other_name="ENST00000465678.1" other_id="ENST00000465678.1" other_start="1" other_end="756" type="transcript">
+        <mapping_span lrg_start="7390" lrg_end="7679" other_start="1" other_end="290" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="8248" other_start="291" other_end="756" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000466193.1" other_name="ENST00000466193.1" other_id="ENST00000466193.1" other_start="1" other_end="524" type="transcript">
+        <mapping_span lrg_start="7382" lrg_end="7849" other_start="1" other_end="468" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8235" other_start="469" other_end="524" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000469548.5" other_name="ENST00000469548.5" other_id="ENST00000469548.5" other_start="1" other_end="1044" type="transcript">
+        <mapping_span lrg_start="5534" lrg_end="5862" other_start="1" other_end="329" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="330" other_end="409" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="410" other_end="472" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="473" other_end="670" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="671" other_end="832" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="833" other_end="970" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7652" other_start="971" other_end="1044" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000472254.1" other_name="ENST00000472254.1" other_id="ENST00000472254.1" other_start="1" other_end="934" type="transcript">
+        <mapping_span lrg_start="6893" lrg_end="7419" other_start="1" other_end="527" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="528" other_end="628" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="629" other_end="695" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="696" other_end="934" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000473012.1" other_name="ENST00000473012.1" other_id="ENST00000473012.1" other_start="1" other_end="632" type="transcript">
+        <mapping_span lrg_start="5778" lrg_end="5862" other_start="1" other_end="85" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6197" other_start="86" other_end="304" strand="1" />
+        <mapping_span lrg_start="6418" lrg_end="6634" other_start="305" other_end="521" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6862" other_start="522" other_end="632" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000478467.5" other_name="ENST00000478467.5" other_id="ENST00000478467.5" other_start="1" other_end="857" type="transcript">
+        <mapping_span lrg_start="5647" lrg_end="5862" other_start="1" other_end="216" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="217" other_end="279" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="280" other_end="477" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="478" other_end="639" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="640" other_end="777" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7658" other_start="778" other_end="857" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000486699.5" other_name="ENST00000486699.5" other_id="ENST00000486699.5" other_start="1" other_end="968" type="transcript">
+        <mapping_span lrg_start="5629" lrg_end="5862" other_start="1" other_end="234" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="235" other_end="314" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="315" other_end="377" strand="1" />
+        <mapping_span lrg_start="6418" lrg_end="6634" other_start="378" other_end="594" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="595" other_end="756" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="757" other_end="894" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7652" other_start="895" other_end="968" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000490385.5" other_name="ENST00000490385.5" other_id="ENST00000490385.5" other_start="1" other_end="860" type="transcript">
+        <mapping_span lrg_start="5111" lrg_end="5128" other_start="1" other_end="18" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="19" other_end="131" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6197" other_start="132" other_end="350" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="351" other_end="548" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="7063" other_start="549" other_end="860" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000491300.5" other_name="ENST00000491300.5" other_id="ENST00000491300.5" other_start="1" other_end="884" type="transcript">
+        <mapping_span lrg_start="5059" lrg_end="5128" other_start="1" other_end="70" strand="1" />
+        <mapping_span lrg_start="5700" lrg_end="5862" other_start="71" other_end="233" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="234" other_end="313" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="314" other_end="376" strand="1" />
+        <mapping_span lrg_start="6418" lrg_end="6634" other_start="377" other_end="593" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="594" other_end="755" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7410" other_start="756" other_end="884" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000491773.5" other_name="ENST00000491773.5" other_id="ENST00000491773.5" other_start="1" other_end="676" type="transcript">
+        <mapping_span lrg_start="5005" lrg_end="5128" other_start="1" other_end="124" strand="1" />
+        <mapping_span lrg_start="5700" lrg_end="5862" other_start="125" other_end="287" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="288" other_end="367" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="368" other_end="430" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="431" other_end="628" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6799" other_start="629" other_end="676" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000494399.5" other_name="ENST00000494399.5" other_id="ENST00000494399.5" other_start="1" other_end="1848" type="transcript">
+        <mapping_span lrg_start="5095" lrg_end="5128" other_start="1" other_end="34" strand="1" />
+        <mapping_span lrg_start="5700" lrg_end="5862" other_start="35" other_end="197" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6197" other_start="198" other_end="416" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="417" other_end="614" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="7679" other_start="615" other_end="1542" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="1543" other_end="1609" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="1610" other_end="1848" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000496439.1" other_name="ENST00000496439.1" other_id="ENST00000496439.1" other_start="1" other_end="800" type="transcript">
+        <mapping_span lrg_start="5751" lrg_end="5862" other_start="1" other_end="112" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="113" other_end="192" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="193" other_end="255" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6981" other_start="256" other_end="800" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000636293.1" other_name="ENST00000636293.1" other_id="ENST00000636293.1" other_start="1" other_end="1102" type="transcript">
+        <mapping_span lrg_start="5050" lrg_end="5128" other_start="1" other_end="79" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="80" other_end="192" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="193" other_end="272" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="273" other_end="335" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="336" other_end="533" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="534" other_end="695" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="696" other_end="796" strand="1" />
+        <mapping_span lrg_start="7783" lrg_end="7849" other_start="797" other_end="863" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="864" other_end="1102" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000636836.1" other_name="ENST00000636836.1" other_id="ENST00000636836.1" other_start="1" other_end="1173" type="transcript">
+        <mapping_span lrg_start="5050" lrg_end="5128" other_start="1" other_end="79" strand="1" />
+        <mapping_span lrg_start="5750" lrg_end="5862" other_start="80" other_end="192" strand="1" />
+        <mapping_span lrg_start="5979" lrg_end="6058" other_start="193" other_end="272" strand="1" />
+        <mapping_span lrg_start="6135" lrg_end="6197" other_start="273" other_end="335" strand="1" />
+        <mapping_span lrg_start="6437" lrg_end="6634" other_start="336" other_end="533" strand="1" />
+        <mapping_span lrg_start="6752" lrg_end="6913" other_start="534" other_end="695" strand="1" />
+        <mapping_span lrg_start="7282" lrg_end="7419" other_start="696" other_end="833" strand="1" />
+        <mapping_span lrg_start="7579" lrg_end="7679" other_start="834" other_end="934" strand="1" />
+        <mapping_span lrg_start="8180" lrg_end="8418" other_start="935" other_end="1173" strand="1" />
+      </mapping>
+      <features>
+        <gene source="Ensembl" accession="ENSG00000126107.14">
+          <symbol source="HGNC" name="HECTD3" />
+          <coordinates coord_system="LRG_1079" start="1" end="4172" strand="-1" mapped_from="GRCh38" />
+          <partial>3-prime</partial>
+          <long_name>HECT domain E3 ubiquitin protein ligase 3 (protein_coding)</long_name>
+          <db_xref source="GeneID" accession="79654" />
+          <db_xref source="HGNC" accession="26117">
+            <synonym>FLJ21156</synonym>
+          </db_xref>
+          <db_xref source="Ensembl" accession="ENSG00000126107" />
+          <transcript source="Ensembl" accession="ENST00000372168.7">
+            <coordinates coord_system="LRG_1079" start="1" end="1394" strand="-1" mapped_from="GRCh38" />
+            <partial>3-prime</partial>
+            <long_name>HECTD3-201 (protein_coding)</long_name>
+            <exon source="Ensembl" accession="ENSE00001752924">
+              <coordinates coord_system="LRG_1079" start="1083" end="1394" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046395">
+              <coordinates coord_system="LRG_1079" start="256" end="438" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046388">
+              <coordinates coord_system="LRG_1079" start="62" end="114" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000361241.3">
+              <coordinates coord_system="LRG_1079" start="1" end="1232" strand="-1" mapped_from="GRCh38" />
+              <partial>3-prime</partial>
+              <db_xref source="UniProtKB" accession="Q5T447" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000372172.4">
+            <coordinates coord_system="LRG_1079" start="1" end="4172" strand="-1" mapped_from="GRCh38" />
+            <partial>3-prime</partial>
+            <long_name>HECTD3-202 (protein_coding)</long_name>
+            <db_xref source="RefSeq" accession="NM_024602.5" />
+            <exon source="Ensembl" accession="ENSE00001918003">
+              <coordinates coord_system="LRG_1079" start="3732" end="4172" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001407801">
+              <coordinates coord_system="LRG_1079" start="3389" end="3549" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046392">
+              <coordinates coord_system="LRG_1079" start="3044" end="3136" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046377">
+              <coordinates coord_system="LRG_1079" start="2829" end="2964" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001218194">
+              <coordinates coord_system="LRG_1079" start="2411" end="2526" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001218189">
+              <coordinates coord_system="LRG_1079" start="2212" end="2325" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046371">
+              <coordinates coord_system="LRG_1079" start="1987" end="2069" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046384">
+              <coordinates coord_system="LRG_1079" start="1379" end="1544" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046378">
+              <coordinates coord_system="LRG_1079" start="1083" end="1164" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046395">
+              <coordinates coord_system="LRG_1079" start="256" end="438" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001046388">
+              <coordinates coord_system="LRG_1079" start="62" end="114" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000361245.4">
+              <coordinates coord_system="LRG_1079" start="1" end="4100" strand="-1" mapped_from="GRCh38" />
+              <partial>3-prime</partial>
+              <db_xref source="RefSeq" accession="NP_078878.3" />
+              <db_xref source="UniProtKB" accession="Q5T447" />
+              <db_xref source="CCDS" accession="CCDS41318.1" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000466423.5">
+            <coordinates coord_system="LRG_1079" start="1" end="71" strand="-1" mapped_from="GRCh38" />
+            <partial>3-prime</partial>
+            <long_name>HECTD3-203 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001830821">
+              <coordinates coord_system="LRG_1079" start="62" end="71" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000126088.13">
+          <symbol source="HGNC" name="UROD" />
+          <coordinates coord_system="LRG_1079" start="4990" end="8418" strand="1" mapped_from="GRCh38" />
+          <long_name>uroporphyrinogen decarboxylase (protein_coding)</long_name>
+          <db_xref source="GeneID" accession="7389" />
+          <db_xref source="HGNC" accession="12591" />
+          <db_xref source="MIM" accession="613521" />
+          <db_xref source="Ensembl" accession="ENSG00000126088" />
+          <transcript source="Ensembl" accession="ENST00000246337.8" fixed_id="t1">
+            <coordinates coord_system="LRG_1079" start="4990" end="8418" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-201 (protein_coding)</long_name>
+            <db_xref source="RefSeq" accession="NM_000374.4" />
+            <db_xref source="RefSeq" accession="NR_036510.1" />
+            <exon source="Ensembl" accession="ENSE00001901830">
+              <coordinates coord_system="LRG_1079" start="4990" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003672572">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003545324">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003573698">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003591712">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003540094">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003552933">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003495209">
+              <coordinates coord_system="LRG_1079" start="7579" end="7679" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003628717">
+              <coordinates coord_system="LRG_1079" start="7783" end="7849" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003684657">
+              <coordinates coord_system="LRG_1079" start="8180" end="8418" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000246337.4" fixed_id="p1">
+              <coordinates coord_system="LRG_1079" start="5109" end="8341" strand="1" mapped_from="GRCh38" />
+              <db_xref source="RefSeq" accession="NP_000365.3" />
+              <db_xref source="UniProtKB" accession="P06132" />
+              <db_xref source="CCDS" accession="CCDS518.1" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000491773.5">
+            <coordinates coord_system="LRG_1079" start="5005" end="6799" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-218 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001456986">
+              <coordinates coord_system="LRG_1079" start="5005" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002715508">
+              <coordinates coord_system="LRG_1079" start="5700" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003625220">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001825266">
+              <coordinates coord_system="LRG_1079" start="6752" end="6799" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000463092.5">
+            <coordinates coord_system="LRG_1079" start="5028" end="6732" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-208 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001855395">
+              <coordinates coord_system="LRG_1079" start="5028" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003523159">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001913242">
+              <coordinates coord_system="LRG_1079" start="5979" end="6732" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000636293.1">
+            <coordinates coord_system="LRG_1079" start="5050" end="8418" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-221 (protein_coding)</long_name>
+            <exon source="Ensembl" accession="ENSE00003796213">
+              <coordinates coord_system="LRG_1079" start="5050" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003672572">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003545324">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003573698">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003591712">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003540094">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003495209">
+              <coordinates coord_system="LRG_1079" start="7579" end="7679" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003628717">
+              <coordinates coord_system="LRG_1079" start="7783" end="7849" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003684657">
+              <coordinates coord_system="LRG_1079" start="8180" end="8418" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000490710.1">
+              <coordinates coord_system="LRG_1079" start="5109" end="8341" strand="1" mapped_from="GRCh38" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000636836.1">
+            <coordinates coord_system="LRG_1079" start="5050" end="8418" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-222 (protein_coding)</long_name>
+            <exon source="Ensembl" accession="ENSE00003796213">
+              <coordinates coord_system="LRG_1079" start="5050" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003672572">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003545324">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003573698">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003591712">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003540094">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003552933">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003495209">
+              <coordinates coord_system="LRG_1079" start="7579" end="7679" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003794913">
+              <coordinates coord_system="LRG_1079" start="8180" end="8418" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000490594.1">
+              <coordinates coord_system="LRG_1079" start="5109" end="8201" strand="1" mapped_from="GRCh38" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000461035.5">
+            <coordinates coord_system="LRG_1079" start="5055" end="6303" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-206 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001925493">
+              <coordinates coord_system="LRG_1079" start="5055" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002715508">
+              <coordinates coord_system="LRG_1079" start="5700" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001905057">
+              <coordinates coord_system="LRG_1079" start="6135" end="6303" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000491300.5">
+            <coordinates coord_system="LRG_1079" start="5059" end="7410" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-217 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001844598">
+              <coordinates coord_system="LRG_1079" start="5059" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002715508">
+              <coordinates coord_system="LRG_1079" start="5700" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001894740">
+              <coordinates coord_system="LRG_1079" start="6418" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003461377">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001945018">
+              <coordinates coord_system="LRG_1079" start="7282" end="7410" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000434478.5">
+            <coordinates coord_system="LRG_1079" start="5089" end="7288" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-203 (protein_coding)</long_name>
+            <exon source="Ensembl" accession="ENSE00001694684">
+              <coordinates coord_system="LRG_1079" start="5089" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003672572">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003545324">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003591712">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003540094">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001601935">
+              <coordinates coord_system="LRG_1079" start="7282" end="7288" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000404489.1">
+              <coordinates coord_system="LRG_1079" start="5109" end="7288" strand="1" mapped_from="GRCh38" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000494399.5">
+            <coordinates coord_system="LRG_1079" start="5095" end="8418" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-219 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001823869">
+              <coordinates coord_system="LRG_1079" start="5095" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002715508">
+              <coordinates coord_system="LRG_1079" start="5700" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001833289">
+              <coordinates coord_system="LRG_1079" start="5979" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003625220">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001932831">
+              <coordinates coord_system="LRG_1079" start="6752" end="7679" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003665480">
+              <coordinates coord_system="LRG_1079" start="7783" end="7849" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003671797">
+              <coordinates coord_system="LRG_1079" start="8180" end="8418" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000460334.5">
+            <coordinates coord_system="LRG_1079" start="5101" end="6913" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-204 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001853100">
+              <coordinates coord_system="LRG_1079" start="5101" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003523159">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001894740">
+              <coordinates coord_system="LRG_1079" start="6418" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003461377">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000462688.5">
+            <coordinates coord_system="LRG_1079" start="5108" end="7419" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-207 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001942019">
+              <coordinates coord_system="LRG_1079" start="5108" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002715508">
+              <coordinates coord_system="LRG_1079" start="5700" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001833289">
+              <coordinates coord_system="LRG_1079" start="5979" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003625220">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003461377">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003583020">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000460906.5">
+            <coordinates coord_system="LRG_1079" start="5111" end="6963" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-205 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001845915">
+              <coordinates coord_system="LRG_1079" start="5111" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003523159">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001939841">
+              <coordinates coord_system="LRG_1079" start="6418" end="6963" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000490385.5">
+            <coordinates coord_system="LRG_1079" start="5111" end="7063" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-216 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001845915">
+              <coordinates coord_system="LRG_1079" start="5111" end="5128" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003523159">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001833289">
+              <coordinates coord_system="LRG_1079" start="5979" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003625220">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001940555">
+              <coordinates coord_system="LRG_1079" start="6752" end="7063" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000469548.5">
+            <coordinates coord_system="LRG_1079" start="5534" end="7652" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-211 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001943468">
+              <coordinates coord_system="LRG_1079" start="5534" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003625220">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003461377">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003583020">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001814978">
+              <coordinates coord_system="LRG_1079" start="7579" end="7652" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000486699.5">
+            <coordinates coord_system="LRG_1079" start="5629" end="7652" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-215 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001870411">
+              <coordinates coord_system="LRG_1079" start="5629" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001894740">
+              <coordinates coord_system="LRG_1079" start="6418" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003461377">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003583020">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001814978">
+              <coordinates coord_system="LRG_1079" start="7579" end="7652" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000478467.5">
+            <coordinates coord_system="LRG_1079" start="5647" end="7658" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-214 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001955415">
+              <coordinates coord_system="LRG_1079" start="5647" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003625220">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003461377">
+              <coordinates coord_system="LRG_1079" start="6752" end="6913" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003583020">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001855905">
+              <coordinates coord_system="LRG_1079" start="7579" end="7658" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000428106.1">
+            <coordinates coord_system="LRG_1079" start="5750" end="7668" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-202 (protein_coding)</long_name>
+            <exon source="Ensembl" accession="ENSE00003672572">
+              <coordinates coord_system="LRG_1079" start="5750" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003545324">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003573698">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003591712">
+              <coordinates coord_system="LRG_1079" start="6437" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003552933">
+              <coordinates coord_system="LRG_1079" start="7282" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001737251">
+              <coordinates coord_system="LRG_1079" start="7579" end="7668" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000400253.1" codon_start="3">
+              <coordinates coord_system="LRG_1079" start="5750" end="7668" strand="1" mapped_from="GRCh38" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000496439.1">
+            <coordinates coord_system="LRG_1079" start="5751" end="6981" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-220 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001945375">
+              <coordinates coord_system="LRG_1079" start="5751" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003619539">
+              <coordinates coord_system="LRG_1079" start="5979" end="6058" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003679105">
+              <coordinates coord_system="LRG_1079" start="6135" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001953141">
+              <coordinates coord_system="LRG_1079" start="6437" end="6981" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000473012.1">
+            <coordinates coord_system="LRG_1079" start="5778" end="6862" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-213 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001947892">
+              <coordinates coord_system="LRG_1079" start="5778" end="5862" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001833289">
+              <coordinates coord_system="LRG_1079" start="5979" end="6197" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001894740">
+              <coordinates coord_system="LRG_1079" start="6418" end="6634" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001895454">
+              <coordinates coord_system="LRG_1079" start="6752" end="6862" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000472254.1">
+            <coordinates coord_system="LRG_1079" start="6893" end="8418" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-212 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001902950">
+              <coordinates coord_system="LRG_1079" start="6893" end="7419" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003686538">
+              <coordinates coord_system="LRG_1079" start="7579" end="7679" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003665480">
+              <coordinates coord_system="LRG_1079" start="7783" end="7849" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00003671797">
+              <coordinates coord_system="LRG_1079" start="8180" end="8418" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000466193.1">
+            <coordinates coord_system="LRG_1079" start="7382" end="8235" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-210 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001850366">
+              <coordinates coord_system="LRG_1079" start="7382" end="7849" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001914928">
+              <coordinates coord_system="LRG_1079" start="8180" end="8235" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000465678.1">
+            <coordinates coord_system="LRG_1079" start="7390" end="8248" strand="1" mapped_from="GRCh38" />
+            <long_name>UROD-209 (processed_transcript)</long_name>
+            <exon source="Ensembl" accession="ENSE00001837001">
+              <coordinates coord_system="LRG_1079" start="7390" end="7679" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00001860842">
+              <coordinates coord_system="LRG_1079" start="7783" end="8248" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000162415.6">
+          <symbol source="HGNC" name="ZSWIM5" />
+          <coordinates coord_system="LRG_1079" start="9242" end="10512" strand="-1" mapped_from="GRCh38" />
+          <partial>5-prime</partial>
+          <long_name>zinc finger SWIM-type containing 5 (protein_coding)</long_name>
+          <db_xref source="GeneID" accession="57643" />
+          <db_xref source="HGNC" accession="29299">
+            <synonym>KIAA1511</synonym>
+          </db_xref>
+          <db_xref source="Ensembl" accession="ENSG00000162415" />
+          <transcript source="Ensembl" accession="ENST00000359600.5">
+            <coordinates coord_system="LRG_1079" start="9242" end="10512" strand="-1" mapped_from="GRCh38" />
+            <partial>5-prime</partial>
+            <long_name>ZSWIM5-201 (protein_coding)</long_name>
+            <db_xref source="RefSeq" accession="NM_020883.1" />
+            <exon source="Ensembl" accession="ENSE00001456967">
+              <coordinates coord_system="LRG_1079" start="9242" end="10512" strand="-1" mapped_from="GRCh38" />
+              <partial>5-prime</partial>
+            </exon>
+          </transcript>
+        </gene>
+      </features>
+    </annotation_set>
+    <annotation_set type="lsdb">
+      <source>
+        <name>List of locus specific databases for UROD</name>
+        <url>http://grenada.lumc.nl/LSDB_list/lsdbs/UROD</url>
+      </source>
+      <modification_date>2018-11-21</modification_date>
+    </annotation_set>
+  </updatable_annotation>
+</lrg>
