@@ -1,8 +1,16 @@
+
+"""
+Usage: lrg2bed_test2.py LRG_?.XML 
+
+This script extracts exon start and end positions from LRG XML files
+
+"""
+
 # running this python script from shell with a LRG.xml file as an argument
 import sys
 import xml.etree.ElementTree as ET
 
-# 
+#first argument saved as file_name  
 file_name = sys.argv[1]
 
 # parse file_name to python as 'root'
