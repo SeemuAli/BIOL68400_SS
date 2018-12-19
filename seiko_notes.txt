@@ -1,0 +1,9 @@
+# address to download the public LRG xml files
+ftp://ftp.ebi.ac.uk/pub/databases/lrgex/LRG_public_xml_files.zip
+
+# github address
+
+
+- submit a github address only to turnitin
+- The github should contain a script and the documentation (e.g. README.md). The documentation should be at a standard for ISO and SOPs.
+- Testing a script on both python3 and 2 as well as multiple xml files. Pytest (https://docs.pytest.org/en/latest/) may be helpful for this purpose.
