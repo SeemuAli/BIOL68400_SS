@@ -25,35 +25,36 @@ file_name = sys.argv[1]
 tree=ET.parse(file_name)
 root = tree.getroot()
 
-# defining list sections before appending exon, start and end positions from loop 
+#a loop to find all transcripts and genomic builds in file to only pull out chromosome information for 37 build
+for mapping in root.findall(".//updatable_annotation/annotation_set/mapping"):
+    if mapping.get('coord_system').startswith("GRCh37"): 
+        Chrom_number = int(mapping.get('other_name')) #define variable as an integer value as oppose to string
+        Chrom_start = int(mapping.get('other_start')) #define variable as an integer value as oppose to string
+        Chrom_end = int(mapping.get('other_end'))     #define variable as an integer value as oppose to string
+        print(Chrom_number, Chrom_start, Chrom_end)
+
+# defining list sections before appending exon start and end positions from loop 
 label=[]
 start=[]
 end=[]
-pos=[]
+#pos=[]
 
 #a loop to find all exons and append the label start and end of the exon coordinates
 for exon in root.findall(".//fixed_annotation/transcript/exon"):
     label.append(exon.get('label'))
     coordinates = exon.find('coordinates')
-    start.append(coordinates.get('start'))
-    end.append(coordinates.get('end'))
+    LRG_start = int(coordinates.get('start')) #define variable as an integer value as oppose to string
+    LRG_end = int(coordinates.get('end')) #define variable as an integer value as oppose to string
+    Exon_start = Chrom_start + LRG_start - 1 #calculates Exon start position in GRCH37 forward strand
+    Exon_end = Chrom_start + LRG_end -1 #calculates Exon start position in GRCH37 forward strand 
+    start.append(Exon_start)
+    end.append(Exon_end)
+    
 
-
-
-#a loop to find all mapping and append the label start and end of the exon coordinates
-for mapping in root.findall(".//updatable_annotation/annotation_set/mapping"):
-    if mapping.get('coord_system').startswith("GRCh37"): 
-        Chrom_number = mapping.get('other_name')
-        Chrom_start = mapping.get('other_start')
-        Chrom_end = mapping.get('other_end')
-        print(Chrom_number, Chrom_start, Chrom_end)
-
-
-
-outfile = open("test.bed","w")
-outfile.write("Exon\tStart\tEnd\n")
+outfile = open("LRG_2.bed","w")
+outfile.write("Chromosome Number\tStart\tEnd\tExon Number\n")
 for i in range(len(start)):
-    outfile.write("{}\t{}\t{}\n".format(label[i],start[i],end[i]))
+    outfile.write("Chr{}\t{}\t{}\tEx {}\n".format(Chrom_number,start[i],end[i],label[i]))
 outfile.close()
 
 
