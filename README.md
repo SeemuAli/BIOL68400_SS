@@ -17,10 +17,11 @@ Standard.
 ### Tech/Framework used
 
 ### Features
+This script simply pulls out the exons, start and end positions from a LRG xml format file.
 
 ### Code Example
  ```python
-lrg2bed_test3.py {your LRG xml file name}
+lrg2bed_test3.py {your_LRG_xml_file_name}
 ```
 ### Requirements
 This script was developed and tested using Python 3.7.0. Using any other version may cause errors or faulty results. 
@@ -29,7 +30,7 @@ This script was developed and tested using Python 3.7.0. Using any other version
 - pytest == X.X.
 
 ### Installation
-Download the script lrg2bed_test3.py to your local UNIX terminal. Then run like:
+Download the script lrg2bed_test3.py to your local computer which is equipped with the requirements. 
 
 
 ### API Reference
@@ -39,19 +40,19 @@ Not available.
 
 ### How to use
  ```python
-lrg2bed_test3.py {your LRG xml file name}
+lrg2bed_test3.py {your_LRG_xml_file_name}
 ```
 Then the output looks like this:
 ```python
 
 ```
 
-### Contribute
-Seemu Ali and Seiko Makino equally contributed development of this work.
+### Contribution
+- Seemu Ali and Seiko Makino equally contributed development of this work.
 
-### Credits
-University of Manchester BIOL68400 Programming Module, Prof Andy Brass for the course work and helping us out to write codes.
+### Acknowledgements
+- University of Manchester BIOL68400 Programming Module, Prof Andy Brass for the course work and helping us out to write codes.
 
 ### License
- Copyright (C) 2018 University of Manchester and NHS STP 
- Authors: Seemu Ali & Seiko Makino (github.com/seikom)
+ - Copyright (C) 2018 University of Manchester and NHS STP 
+ - Authors: Seemu Ali & Seiko Makino (github.com/seikom)
