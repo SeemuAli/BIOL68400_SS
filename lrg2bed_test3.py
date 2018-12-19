@@ -2,7 +2,7 @@
 """
 Usage: lrg2bed_test2.py LRG_?.XML 
 
-This script extracts exon start and end positions from LRG XML files
+This script extracts exon start and end positions from LRG XML files 
 
 """
 
@@ -35,12 +35,10 @@ for mapping in root.findall(".//updatable_annotation/annotation_set/mapping"):
         print(Chrom_number, Chrom_start, Chrom_end, Strand)
 
 
-
 # defining list sections before appending exon start and end positions from loop 
 label=[]
 start=[]
 end=[]
-#pos=[]
 
 #a loop to find all exons and append the label start and end of the exon coordinates then calculate position in GRch37 build
 # an if function added to ensure correct loop and calculation is ran depending if strands are forward or reverse
@@ -73,7 +71,7 @@ else:
     quit() 
 
 #saves output into bedfile format 
-bedfilename = "{}.bed".format(file_name.rstrip('.xml')) #bed file saved in accordance to initial xml filename 
+bedfilename = "{}.bed".format(file_name.rstrip('.xml')) #bed file saved in relation to initial xml filename 
 
 outfile = open(bedfilename,"w")
 outfile.write("Chromosome Number\tStart\tEnd\tExon Number\n")
