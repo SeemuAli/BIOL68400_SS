@@ -1,0 +1,5 @@
+Requirements for running this script:
+python version 3.7.0
+
+This script is tested on pytest for Python 2.X, 3.7.X etc...
+pytest version X.X
