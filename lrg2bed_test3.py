@@ -40,12 +40,14 @@ for exon in root.findall(".//fixed_annotation/transcript/exon"):
 
 
 
-#a loop to find all exons and append the label start and end of the exon coordinates
-#for exon in root.findall(".//updatable_annotation/mapping"):
-    #label.append(exon.get('label'))
-    #coordinates = exon.find('coordinates')
-    #start.append(coordinates.get('start'))
-    #end.append(coordinates.get('end'))
+#a loop to find all mapping and append the label start and end of the exon coordinates
+for mapping in root.findall(".//updatable_annotation/annotation_set/mapping"):
+    if mapping.get('coord_system').startswith("GRCh37"): 
+        Chrom_number = mapping.get('other_name')
+        Chrom_start = mapping.get('other_start')
+        Chrom_end = mapping.get('other_end')
+        print(Chrom_number, Chrom_start, Chrom_end)
+
 
 
 outfile = open("test.bed","w")
