@@ -6,18 +6,26 @@ This script extracts exon start and end positions from LRG XML files
 
 """
 
-# running this python script from shell with a LRG.xml file as an argument
+#running this python script from shell with a LRG.xml file as an argument
+
 import sys
 import xml.etree.ElementTree as ET
 
+#checking a file is included in argument for script to run 
+if len (sys.argv) < 2:
+
+	print ('please add LRG file for script to run')
+	quit()
+
 #first argument saved as file_name  
-file_name = sys.argv[1]
+file_name = sys.argv[1] 
+
 
 # parse file_name to python as 'root'
 tree=ET.parse(file_name)
 root = tree.getroot()
 
-# pull out exon, start and end positions from 'exon' within 'transcript'
+# defining list sections before appending exon, start and end positions from loop 
 label=[]
 start=[]
 end=[]
@@ -29,23 +37,23 @@ for exon in root.findall(".//fixed_annotation/transcript/exon"):
     coordinates = exon.find('coordinates')
     start.append(coordinates.get('start'))
     end.append(coordinates.get('end'))
-#  print(label, "\t", start,"\t",end)
 
-for i in range(len(start)):
-    print(str(label[i]) + "\t "+ str(start[i]) + "\t" + str(end[i]) +"\n")
 
-#print(pos)
+
+#a loop to find all exons and append the label start and end of the exon coordinates
+#for exon in root.findall(".//updatable_annotation/mapping"):
+    #label.append(exon.get('label'))
+    #coordinates = exon.find('coordinates')
+    #start.append(coordinates.get('start'))
+    #end.append(coordinates.get('end'))
+
 
 outfile = open("test.bed","w")
-outfile.write("Hello")
+outfile.write("Exon\tStart\tEnd\n")
 for i in range(len(start)):
-    print(str(label[i]) + "\t "+ str(start[i]) + "\t" + str(end[i]) +"\n",file=outfile)
+    outfile.write("{}\t{}\t{}\n".format(label[i],start[i],end[i]))
 outfile.close()
 
 
 
-#    print(i)
-#labelpos=label[i]
-#startpos=start[i]
-#print(startpos)
-#file.write(startpos,labelpos)
+
