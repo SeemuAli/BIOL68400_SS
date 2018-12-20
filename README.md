@@ -24,7 +24,7 @@ This script simply pulls out the exons, start and end positions from a LRG xml f
 lrg2bed_test3.py {your_LRG_xml_file_name}
 ```
 ### Requirements
-This script was developed and tested using Python 3.7.0. Using any other version may cause errors or faulty results. 
+This script was developed and tested using Python 3.7.0. It has been tested on Python 2.7.3, however using any other version may cause errors or faulty results. 
 
 - Python == 3.7.0.
 - pytest == X.X.
@@ -42,9 +42,20 @@ Not available.
  ```python
 lrg2bed_test3.py {your_LRG_xml_file_name}
 ```
-Then the output looks like this:
+Then the output file looks like this:
 ```python
-
+Chromosome Number       Start   End     Exon Number
+Chr17   48279000        48278772        Ex 1
+Chr17   48277308        48277114        Ex 2
+Chr17   48276951        48276917        Ex 3
+Chr17   48276814        48276779        Ex 4
+Chr17   48276688        48276587        Ex 5
+Chr17   48275865        48275794        Ex 6
+Chr17   48275566        48275522        Ex 7
+Chr17   48275363        48275310        Ex 8
+Chr17   48275146        48275093        Ex 9
+Chr17   48274594        48274541        Ex 10
+...
 ```
 
 ### Contribution
