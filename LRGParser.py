@@ -78,8 +78,7 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
             end.append(Exon_end)
             print ('Reverse strand')
     else:
-        print ('Strand not defined as forward or reverse')
-        quit()
+        raise ValueError('Strand not defined as forward or reverse in file')
     return(label, start, end)
 
 
