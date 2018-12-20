@@ -7,7 +7,7 @@ Date: 20th  Dec 2018
 
 Purpose: to test LRGparser script on LRG1 and LRG2 xml file 
 
-test run on python version 3.5.2 
+test run on python version 3.7.0
 """
 
 
