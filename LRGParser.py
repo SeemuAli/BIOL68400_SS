@@ -1,8 +1,15 @@
 
 """
-Usage: lrg2bed_test2.py LRG_?.XML 
 
-This script extracts exon start and end positions from LRG XML files 
+LRGParser.py 
+
+Authors: Seemu Ali, Seiko Makino 
+Date: 20th  Dec 2018
+
+Purpose: This script extracts chromosome number, exon start and end positions from LRG XML files to create a bedfile 
+Build: GRCh37
+
+Script run on python version 3.5.2 
 
 """
 
@@ -28,7 +35,7 @@ def rootparse (file_name):
 
 
 
-#a loop to find all transcripts and genomic build in file to only pull out chromosome information for 37 build
+#a loop to find all transcripts and genomic build in file to only pull out gene information for 37 build
 def geneinfo(root):
     for mapping in root.findall(".//updatable_annotation/annotation_set/mapping"):
         if mapping.get('coord_system').startswith("GRCh37"):
@@ -38,8 +45,6 @@ def geneinfo(root):
             Strand = mapping.find('mapping_span').get('strand')
             print(Chrom_number, Chrom_start, Chrom_end, Strand)
     return (Chrom_number, Chrom_start, Chrom_end, Strand)
-
- #
 
 
 # defining list sections before appending exon start and end positions from loop 
@@ -65,7 +70,7 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
             Exon_end = Chrom_start + LRG_end -1 #calculates Exon start position in GRCH37 forward strand 
             start.append(Exon_start)
             end.append(Exon_end)
-            print('Forward strand')
+            #print('Forward strand')
     elif Strand == '-1':
         for exon in root.findall(".//fixed_annotation/transcript/exon"):
             label.append(exon.get('label'))
@@ -81,7 +86,6 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
         raise ValueError('Strand not defined as forward or reverse in file')
     return(label, start, end)
 
-
 #saves output into bedfile format 
 def xml2bed(label,start,end, Chrom_number, file_name):
     bedfilename = "{}.bed".format(file_name.rstrip('.xml')) #bed file saved in relation to initial xml filename 
@@ -92,7 +96,7 @@ def xml2bed(label,start,end, Chrom_number, file_name):
     outfile.close()
     return (bedfilename)
 
-
+#Calling all functions 
 def main():
     file_name = filecheck()
     root = rootparse(file_name)
