@@ -90,9 +90,9 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
 def xml2bed(label,start,end, Chrom_number, file_name):
     bedfilename = "{}.bed".format(file_name.rstrip('.xml')) #bed file saved in relation to initial xml filename 
     outfile = open(bedfilename,"w")
-    outfile.write("Chromosome Number\tStart\tEnd\tExon Number\n")
+    outfile.write("Chromosome Number\tStart\tEnd\tExon Number\n") #Formatting Headers for lists 
     for i in range(len(start)):
-        outfile.write("Chr{}\t{}\t{}\tEx {}\n".format(Chrom_number,start[i],end[i],label[i]))
+        outfile.write("Chr{}\t{}\t{}\tEx {}\n".format(Chrom_number,start[i],end[i],label[i])) #formating list and input values from variables 
     outfile.close()
     return (bedfilename)
 
