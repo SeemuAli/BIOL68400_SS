@@ -70,7 +70,7 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
             Exon_end = Chrom_start + LRG_end -1 #calculates Exon start position in GRCH37 forward strand 
             start.append(Exon_start)
             end.append(Exon_end)
-            #print('Forward strand')
+            print('Forward strand')
     elif Strand == '-1':
         for exon in root.findall(".//fixed_annotation/transcript/exon"):
             label.append(exon.get('label'))
