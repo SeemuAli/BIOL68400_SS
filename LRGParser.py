@@ -9,7 +9,7 @@ Date: 20th  Dec 2018
 Purpose: This script extracts chromosome number, exon start and end positions from LRG XML files to create a bedfile 
 Build: GRCh37
 
-Script run on python version 3.5.2 
+Script run on python version 3.7.0
 
 """
 
