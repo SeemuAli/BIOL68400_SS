@@ -21,7 +21,7 @@ import xml.etree.ElementTree as ET
 #checking a file is included in argument for script to run 
 def filecheck():
     if len (sys.argv) < 2:
-        raise ValueError('please add LRG file for script to run')
+        raise ValueError('please add LRG file for script to run') #error raised if there is no input error and advised to add an LRG file 
     file_name = sys.argv[1]
     return (file_name)
 
@@ -70,7 +70,7 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
             Exon_end = Chrom_start + LRG_end -1 #calculates Exon start position in GRCH37 forward strand 
             start.append(Exon_start)
             end.append(Exon_end)
-            print('Forward strand')
+            print('Forward strand') #notifies that the forward strand loop was ran on the LRG file for each exon
     elif Strand == '-1':
         for exon in root.findall(".//fixed_annotation/transcript/exon"):
             label.append(exon.get('label'))
@@ -81,18 +81,18 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
             Exon_end = Chrom_end - LRG_end + 1 #calculates Exon start position in GRCH37 forward strand 
             start.append(Exon_start)
             end.append(Exon_end)
-            print ('Reverse strand')
+            print ('Reverse strand') #notifies that the reverse strand loop was ran on the LRG file for each exon
     else:
         raise ValueError('Strand not defined as forward or reverse in file')
-    return(label, start, end)
+    return(label, start, end) #raises an error if the LRG file does not contain information of whether the transcript is forward or reverse 
 
 #saves output into bedfile format 
 def xml2bed(label,start,end, Chrom_number, file_name):
     bedfilename = "{}.bed".format(file_name.rstrip('.xml')) #bed file saved in relation to initial xml filename 
     outfile = open(bedfilename,"w")
-    outfile.write("Chromosome Number\tStart\tEnd\tExon Number\n") #Formatting Headers for lists 
+    outfile.write("Chromosome Number\tStart\tEnd\tExon Number\n") #formatting Headers for lists 
     for i in range(len(start)):
-        outfile.write("Chr{}\t{}\t{}\tEx {}\n".format(Chrom_number,start[i],end[i],label[i])) #formating list and input values from variables 
+        outfile.write("Chr{}\t{}\t{}\tEx {}\n".format(Chrom_number,start[i],end[i],label[i])) #formatting list and input values from variables 
     outfile.close()
     return (bedfilename)
 
@@ -105,5 +105,5 @@ def main():
     label, start, end = exoninfo(root,label,start,end,Strand, Chrom_start, Chrom_end)
     bedfilename = xml2bed(label,start,end, Chrom_number, file_name)
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__": # Allows python interpreter to read this source file as main programme, useful for pytest for testing units of this script 
+    main() 
