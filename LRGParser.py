@@ -105,5 +105,5 @@ def main():
     label, start, end = exoninfo(root,label,start,end,Strand, Chrom_start, Chrom_end)
     bedfilename = xml2bed(label,start,end, Chrom_number, file_name)
 
-if __name__ == "__main__": # Allows python interpreter to read this source file as main programme, useful for pytest for testing units of this script 
+if __name__ == "__main__": # Allows python interpreter to read this source file as main programme, useful for testing units of this script 
     main() 
