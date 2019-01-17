@@ -21,7 +21,7 @@ import xml.etree.ElementTree as ET
 #checking a file is included in argument for script to run 
 def filecheck():
     if len (sys.argv) < 2:
-        raise ValueError('please add LRG file for script to run') #error raised if there is no input error and advised to add an LRG file 
+        raise ValueError('please add LRG file for script to run') #error raised if there is no input file then instructs user to add an LRG file 
     file_name = sys.argv[1]
     return (file_name)
 
@@ -70,7 +70,7 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
             Exon_end = Chrom_start + LRG_end -1 #calculates Exon start position in GRCH37 forward strand 
             start.append(Exon_start)
             end.append(Exon_end)
-            print('Forward strand') #notifies that the forward strand loop was ran on the LRG file for each exon
+            print('Forward strand') #notifies user that the forward strand loop was ran on the LRG file for each exon
     elif Strand == '-1':
         for exon in root.findall(".//fixed_annotation/transcript/exon"):
             label.append(exon.get('label'))
@@ -81,7 +81,7 @@ def exoninfo (root,label,start,end, Strand, Chrom_start, Chrom_end):
             Exon_end = Chrom_end - LRG_end + 1 #calculates Exon start position in GRCH37 forward strand 
             start.append(Exon_start)
             end.append(Exon_end)
-            print ('Reverse strand') #notifies that the reverse strand loop was ran on the LRG file for each exon
+            print ('Reverse strand') #notifies user that the reverse strand loop was ran on the LRG file for each exon
     else:
         raise ValueError('Strand not defined as forward or reverse in file')
     return(label, start, end) #raises an error if the LRG file does not contain information of whether the transcript is forward or reverse 
